@@ -1,0 +1,1 @@
+import{y as o,o as a,c as n,m as s}from"./entry.zjloayXd.js";const d=["data-rvt-dialog-trigger"],i=o({__name:"ModalTrigger",props:{targetModal:{type:String,default:"dialog",required:!0}},setup(t){const e=t;return(r,g)=>(a(),n("button",{type:"button",class:"modal-btn","data-rvt-dialog-trigger":e.targetModal},[s(r.$slots,"trigger")],8,d))}});export{i as _};

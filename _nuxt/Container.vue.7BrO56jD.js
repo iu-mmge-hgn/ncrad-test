@@ -1,0 +1,1 @@
+import{y as a,I as o,o as r,c,m as l,n as i}from"./entry.zjloayXd.js";const u=a({__name:"Container",props:{size:{type:String,default:""}},setup(e){const s=e,n=o(()=>[`rvt-container-${s.size}`]);return(t,p)=>(r(),c("div",{class:i(n.value)},[l(t.$slots,"default")],2))}});export{u as _};

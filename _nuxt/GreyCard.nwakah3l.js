@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as r,a,m as c}from"./entry.zjloayXd.js";const o={},l={class:"rvt-flex rvt-items-center"},n={class:"rvt-p-all-lg rvt-bg-black-000"};function _(e,d){return s(),r("div",l,[a("div",n,[c(e.$slots,"default")])])}const i=t(o,[["render",_]]);export{i as default};

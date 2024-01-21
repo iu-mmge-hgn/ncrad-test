@@ -1,0 +1,1 @@
+import{o as r,c as o,m as n,n as a}from"./entry.zjloayXd.js";const s={__name:"GradientContainer",props:{type:{type:String,default:"gradient"}},setup(t){return(e,l)=>(r(),o("div",{class:a(["rvt-border-bo rvt-p-tb-xl rvt-p-tb-1-xl-md-up rvt-m-bottom-lg",t.type])},[n(e.$slots,"default")],2))}},c=s;export{c as default};

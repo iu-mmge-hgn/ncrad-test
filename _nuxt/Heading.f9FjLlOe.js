@@ -1,0 +1,1 @@
+import{y as o,o as s,j as n,w as r,t as l,d as p,al as c,am as i,an as d}from"./entry.zjloayXd.js";const f=o({__name:"Heading",props:{text:{type:String,default:""},level:{type:null,default:1}},setup(t){const e=t;return(a,m)=>(s(),n(d("h"+e.level),c(i(a.$attrs)),{default:r(()=>[p(l(e.text),1)]),_:1},16))}});export{f as default};

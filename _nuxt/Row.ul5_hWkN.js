@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as n,m as r}from"./entry.zjloayXd.js";const s={},c={class:"rvt-row rvt-m-all-none"};function _(e,a){return t(),n("div",c,[r(e.$slots,"default")])}const d=o(s,[["render",_]]);export{d as default};
